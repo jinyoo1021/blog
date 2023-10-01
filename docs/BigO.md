@@ -1,6 +1,6 @@
 ---
 title: Big O
-layout: home
+layout: default
 nav_order: 2
 ---
 
