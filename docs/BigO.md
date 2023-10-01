@@ -1,7 +1,7 @@
 ---
 title: Big O
 layout: Big-O Notation
-nav_order: 1
+nav_order: 2
 ---
 
 # Big O Notation
