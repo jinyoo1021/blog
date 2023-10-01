@@ -1,6 +1,6 @@
 ---
 title: Big O
-layout: Big-O Notation
+layout: home
 nav_order: 2
 ---
 
